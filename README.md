@@ -1,4 +1,6 @@
-# Showcase squid 07: contract creation scraping
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/bertux/arthera-squid-nft-transfers)
+
+# Squid example for ABI usage on Arthera: contract creation scraping
 
 This squid scrapes all NFT contract deployments on Ethereum and gets their Transfer events. See more examples of requesting data with squids on the [showcase page](https://docs.subsquid.io/evm-indexing/configuration/showcase) of Subsquid documentation.
 
@@ -11,8 +13,8 @@ Dependencies: Node.js, Docker.
 npm i -g @subsquid/cli
 
 # 1. Retrieve the template
-sqd init showcase07 -t https://github.com/subsquid-labs/showcase07-grab-all-nft-transfers
-cd showcase07
+sqd init arthera-squid-nft-transfers -t https://github.com/bertux/arthera-squid-nft-transfers
+cd arthera-squid-nft-transfers
 
 # 2. Install dependencies
 npm ci

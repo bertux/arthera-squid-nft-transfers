@@ -1,3 +1,4 @@
+import {assertNotNull} from '@subsquid/util-internal'
 import {
   BlockHeader,
   DataHandlerContext,

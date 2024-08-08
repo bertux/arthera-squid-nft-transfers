@@ -1,4 +1,4 @@
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/bertux/arthera-squid-nft-transfers)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/bertux/arthera-squid-nft-transfers)
 
 # Squid example for ABI usage on Arthera: contract creation scraping
 
